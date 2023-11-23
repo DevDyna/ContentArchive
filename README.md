@@ -1,66 +1,34 @@
 # ContentArchive
 Archive for my public content creation
 ### Projects related :
-
-`alpha gear`
-
-`ancient ruins`
-
-`assentia`
-
-`binoculars`
-
-`chipped express`
-
-`classic progression skyblock`
-
-`dev.island`
-
-`dynamo flux`
-
-`elementZ`
-
-`fixchest`
-
-`fixsculk`
-
-`fixwall`
-
-`flatmode`
-
-`goat utils`
-
-`ironberry`
-
-`linear pipes`
-
-`mechanical logistics`
-
-`meka pipes`
-
+`Alpha Gear`
+`Ancient Ruins`
+`Assentia`
+`Binoculars`
+`Chipped Express`
+`Classic Progression Skyblock`
+`Dev.Island`
+`Dynamo Flux`
+`ElementZ`
+`FixChest`
+`FixSculk`
+`FixWall`
+`Flatmode`
+`Goat Utils`
+`Ironberry`
+`Linear Pipes`
+`Mechanical Logistics`
+`Meka Pipes`
 `METV`
-
-`minechem redux`
-
-`minituilities CTM`
-
-`redstuff`
-
-`scaffolding delta`
-
-`smart trapdoor`
-
-`solidary types`
-
-`sticky vision`
-
-`the bottom of the glass`
-
-`utility tags`
-
-`vanilla expansion`
-
-`warden gadgets`
-
-`xray unlimited`
-
+`Minechem Redux`
+`Mini Utilities CTM`
+`Redstuff`
+`Scaffolding Delta`
+`Smart Trapdoor`
+`Solidary Types`
+`Sticky Vision`
+`The Bottom Of The Glass`
+`Utility Tags`
+`Vanilla Expansion`
+`Warden Gadgets`
+`Xray Unlimited`
