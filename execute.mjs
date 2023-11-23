@@ -21,11 +21,11 @@ async function main() {
         console.log(filtered.length + ' Project' + plus + ' founded')
         io.rawWrite(readme, '# ContentArchive\n')
         io.rawAppend(readme, 'Archive for my public content creation\n')
-        io.rawAppend(readme, '### Projects related :\n')
+        io.rawAppend(readme, '### Projects related :\n\n')
         await delay(100)
-        filtered.forEach(projects => {
-            io.rawAppend(readme, '`' + projects + '`\n')
-            console.log(projects + ' Added')
+        filtered.forEach(projects => {//let modifiedString = originalString.replace(/ /g, "%20");
+            io.rawAppend(readme, '[`' + projects + '`](https://github.com/DevDyna/ContentArchive/tree/main/'+projects.replace(/ /g, "%20")+')\n')
+            console.log('+ '+projects)
         })
 
 }
