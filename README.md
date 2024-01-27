@@ -5,6 +5,7 @@ Archive for my public content creation
 [`Alpha Gear`](https://github.com/DevDyna/ContentArchive/tree/main/Alpha%20Gear)
 [`Ancient Ruins`](https://github.com/DevDyna/ContentArchive/tree/main/Ancient%20Ruins)
 [`Assentia`](https://github.com/DevDyna/ContentArchive/tree/main/Assentia)
+[`Beacons Connection CTM`](https://github.com/DevDyna/ContentArchive/tree/main/Beacons%20Connection%20CTM)
 [`Binoculars`](https://github.com/DevDyna/ContentArchive/tree/main/Binoculars)
 [`Chipped Express`](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express)
 [`Classic Progression Skyblock`](https://github.com/DevDyna/ContentArchive/tree/main/Classic%20Progression%20Skyblock)
