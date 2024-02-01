@@ -11,6 +11,7 @@ Archive for my public content creation
 [`Classic Progression Skyblock`](https://github.com/DevDyna/ContentArchive/tree/main/Classic%20Progression%20Skyblock)
 [`Dev.Island`](https://github.com/DevDyna/ContentArchive/tree/main/Dev.Island)
 [`Dynamo Flux`](https://github.com/DevDyna/ContentArchive/tree/main/Dynamo%20Flux)
+[`ElementZ`](https://github.com/DevDyna/ContentArchive/tree/main/ElementZ)
 [`FixChest`](https://github.com/DevDyna/ContentArchive/tree/main/FixChest)
 [`FixSculk`](https://github.com/DevDyna/ContentArchive/tree/main/FixSculk)
 [`FixWall`](https://github.com/DevDyna/ContentArchive/tree/main/FixWall)
