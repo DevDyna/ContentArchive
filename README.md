@@ -18,6 +18,7 @@ Archive for my public content creation
 [`Flatmode`](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode)
 [`Goat Utils`](https://github.com/DevDyna/ContentArchive/tree/main/Goat%20Utils)
 [`Ironberry`](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry)
+[`Kubejs-CopyPaste`](https://github.com/DevDyna/ContentArchive/tree/main/Kubejs-CopyPaste)
 [`Linear Pipes`](https://github.com/DevDyna/ContentArchive/tree/main/Linear%20Pipes)
 [`Mechanical Logistics`](https://github.com/DevDyna/ContentArchive/tree/main/Mechanical%20Logistics)
 [`Meka Pipes`](https://github.com/DevDyna/ContentArchive/tree/main/Meka%20Pipes)
