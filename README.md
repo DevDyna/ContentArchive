@@ -25,6 +25,7 @@ Archive for my public content creation
 [`METV`](https://github.com/DevDyna/ContentArchive/tree/main/METV)
 [`Minechem Redux`](https://github.com/DevDyna/ContentArchive/tree/main/Minechem%20Redux)
 [`Mini Utilities CTM`](https://github.com/DevDyna/ContentArchive/tree/main/Mini%20Utilities%20CTM)
+[`Pattern Utilities`](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities)
 [`Redstuff`](https://github.com/DevDyna/ContentArchive/tree/main/Redstuff)
 [`Scaffolding Delta`](https://github.com/DevDyna/ContentArchive/tree/main/Scaffolding%20Delta)
 [`Smart Trapdoor`](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Trapdoor)
