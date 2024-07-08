@@ -9,6 +9,7 @@ Archive for my public content creation
 [`Binoculars`](https://github.com/DevDyna/ContentArchive/tree/main/Binoculars)
 [`Chipped Express`](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express)
 [`Classic Progression Skyblock`](https://github.com/DevDyna/ContentArchive/tree/main/Classic%20Progression%20Skyblock)
+[`Copper Lines`](https://github.com/DevDyna/ContentArchive/tree/main/Copper%20Lines)
 [`Dev.Island`](https://github.com/DevDyna/ContentArchive/tree/main/Dev.Island)
 [`Dynamo Flux`](https://github.com/DevDyna/ContentArchive/tree/main/Dynamo%20Flux)
 [`ElementZ`](https://github.com/DevDyna/ContentArchive/tree/main/ElementZ)
