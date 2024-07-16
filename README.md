@@ -17,6 +17,7 @@ Archive for my public content creation
 [`FixSculk`](https://github.com/DevDyna/ContentArchive/tree/main/FixSculk)
 [`FixWall`](https://github.com/DevDyna/ContentArchive/tree/main/FixWall)
 [`Flatmode`](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode)
+[`Gunpowder`](https://github.com/DevDyna/ContentArchive/tree/main/Gunpowder)
 [`Ironberry`](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry)
 [`Kubejs-CopyPaste`](https://github.com/DevDyna/ContentArchive/tree/main/Kubejs-CopyPaste)
 [`Linear Pipes`](https://github.com/DevDyna/ContentArchive/tree/main/Linear%20Pipes)
