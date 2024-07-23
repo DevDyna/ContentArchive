@@ -21,6 +21,7 @@ Archive for my public content creation
 [`Ironberry`](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry)
 [`Kubejs-CopyPaste`](https://github.com/DevDyna/ContentArchive/tree/main/Kubejs-CopyPaste)
 [`Linear Pipes`](https://github.com/DevDyna/ContentArchive/tree/main/Linear%20Pipes)
+[`Logistics Pipez`](https://github.com/DevDyna/ContentArchive/tree/main/Logistics%20Pipez)
 [`Mechanical Logistics`](https://github.com/DevDyna/ContentArchive/tree/main/Mechanical%20Logistics)
 [`Meka Pipes`](https://github.com/DevDyna/ContentArchive/tree/main/Meka%20Pipes)
 [`METV`](https://github.com/DevDyna/ContentArchive/tree/main/METV)
