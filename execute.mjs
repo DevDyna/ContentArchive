@@ -24,7 +24,7 @@ async function main() {
         io.rawAppend(readme, '### Projects related :\n\n')
         await delay(100)
         filtered.forEach(projects => {//let modifiedString = originalString.replace(/ /g, "%20");
-            io.rawAppend(readme, '[`[' + projects + ']`](https://github.com/DevDyna/ContentArchive/tree/main/'+projects.replace(/ /g, "%20")+')\n')
+            io.rawAppend(readme, '[`' + projects + '`](https://github.com/DevDyna/ContentArchive/tree/main/'+projects.replace(/ /g, "%20")+')\n')
             console.log('+ '+projects)
         })
 
