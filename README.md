@@ -13,6 +13,7 @@ Archive for my public content creation
 [`Dev.Island`](https://github.com/DevDyna/ContentArchive/tree/main/Dev.Island)
 [`Dynamo Flux`](https://github.com/DevDyna/ContentArchive/tree/main/Dynamo%20Flux)
 [`ElementZ`](https://github.com/DevDyna/ContentArchive/tree/main/ElementZ)
+[`EZ ae2`](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2)
 [`FixChest`](https://github.com/DevDyna/ContentArchive/tree/main/FixChest)
 [`FixSculk`](https://github.com/DevDyna/ContentArchive/tree/main/FixSculk)
 [`FixWall`](https://github.com/DevDyna/ContentArchive/tree/main/FixWall)
