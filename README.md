@@ -30,7 +30,6 @@ Archive for my public content creation
 [`Mini Utilities CTM`](https://github.com/DevDyna/ContentArchive/tree/main/Mini%20Utilities%20CTM)
 [`Pattern Utilities`](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities)
 [`Redstuff`](https://github.com/DevDyna/ContentArchive/tree/main/Redstuff)
-[`Scaffolding Delta`](https://github.com/DevDyna/ContentArchive/tree/main/Scaffolding%20Delta)
 [`Smart Trapdoor`](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Trapdoor)
 [`Solidary Types`](https://github.com/DevDyna/ContentArchive/tree/main/Solidary%20Types)
 [`Sticky Vision`](https://github.com/DevDyna/ContentArchive/tree/main/Sticky%20Vision)
