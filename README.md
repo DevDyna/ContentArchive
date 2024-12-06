@@ -12,6 +12,7 @@ Archive for my public content creation
 [`Copper Lines`](https://github.com/DevDyna/ContentArchive/tree/main/Copper%20Lines)
 [`Dev.Island`](https://github.com/DevDyna/ContentArchive/tree/main/Dev.Island)
 [`Dynamo Flux`](https://github.com/DevDyna/ContentArchive/tree/main/Dynamo%20Flux)
+[`Easy Bee`](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee)
 [`ElementZ`](https://github.com/DevDyna/ContentArchive/tree/main/ElementZ)
 [`ExtraBounties`](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties)
 [`EZ ae2`](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2)
