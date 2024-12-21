@@ -8,5 +8,6 @@ if %errorlevel% neq 0 (
 )
 
     node execute.mjs -await
-    
+
+echo README updated
 timeout -1 /nobreak > nul
