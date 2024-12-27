@@ -34,6 +34,7 @@ Archive for my public content creation
 [`Minechem Redux`](https://github.com/DevDyna/ContentArchive/tree/main/Minechem%20Redux)
 [`Mini Utilities CTM`](https://github.com/DevDyna/ContentArchive/tree/main/Mini%20Utilities%20CTM)
 [`Pattern Utilities`](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities)
+[`Pretty X Smart Pipez`](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez)
 [`Redstuff`](https://github.com/DevDyna/ContentArchive/tree/main/Redstuff)
 [`Smart Pipez`](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez)
 [`Smart Trapdoor`](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Trapdoor)
