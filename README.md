@@ -6,6 +6,8 @@ Archive for my public content creation
 [`Ancient Ruins`](https://github.com/DevDyna/ContentArchive/tree/main/Ancient%20Ruins)
 [`Assentia`](https://github.com/DevDyna/ContentArchive/tree/main/Assentia)
 [`Beacons Connection CTM`](https://github.com/DevDyna/ContentArchive/tree/main/Beacons%20Connection%20CTM)
+[`Better Powah Cables`](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Powah%20Cables)
+[`Better Replication Pipes`](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Replication%20Pipes)
 [`Binoculars`](https://github.com/DevDyna/ContentArchive/tree/main/Binoculars)
 [`BTW Ores`](https://github.com/DevDyna/ContentArchive/tree/main/BTW%20Ores)
 [`Chipped Express`](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express)
