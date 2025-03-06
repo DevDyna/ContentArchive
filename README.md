@@ -46,6 +46,7 @@ Archive for my public content creation
 [`Solidary Types`](https://github.com/DevDyna/ContentArchive/tree/main/Solidary%20Types)
 [`Sticky Vision`](https://github.com/DevDyna/ContentArchive/tree/main/Sticky%20Vision)
 [`The Bottom Of The Glass`](https://github.com/DevDyna/ContentArchive/tree/main/The%20Bottom%20Of%20The%20Glass)
+[`tiab++`](https://github.com/DevDyna/ContentArchive/tree/main/tiab++)
 [`Utility Tags`](https://github.com/DevDyna/ContentArchive/tree/main/Utility%20Tags)
 [`Vanilla Expansion`](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion)
 [`Wild Caves`](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves)
