@@ -8,7 +8,7 @@ Archive for my public content creation
  - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix/gif.gif)
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix/logo.png)
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [bug.png](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix/screen/bug.png)
 
@@ -54,7 +54,7 @@ Archive for my public content creation
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Powah%20Cables/logo.png)
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Powah%20Cables/screen/0.png)
 
@@ -71,7 +71,7 @@ Archive for my public content creation
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Replication%20Pipes/logo.png)
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Replication%20Pipes/screen/0.png)
 
@@ -113,7 +113,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} Chipped  Express }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} logo }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} logo }$$ </strong></summary>
 
     - [frame](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express/logo/frame)
 
@@ -165,7 +165,7 @@ Archive for my public content creation
  - [new.gif](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/new.gif)
  - [old.gif](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/old.gif)
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [beewaxtip.png](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/screen/beewaxtip.png)
 
@@ -190,7 +190,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} ExtraBounties }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} 128x }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} 128x }$$ </strong></summary>
 
     - [blue.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/128x/blue.png)
 
@@ -209,7 +209,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} 16x }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} 16x }$$ </strong></summary>
 
     - [blue.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/16x/blue.png)
 
@@ -228,7 +228,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} 400x }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} 400x }$$ </strong></summary>
 
     - [blue.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/400x/blue.png)
 
@@ -257,7 +257,7 @@ Archive for my public content creation
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2/logo.png)
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [inscriber.png](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2/screen/inscriber.png)
 
@@ -298,14 +298,14 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} Flatmode }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} modpack }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} modpack }$$ </strong></summary>
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode/modpack/logo.png)
 
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} world }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} world }$$ </strong></summary>
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode/world/logo.png)
 
@@ -321,7 +321,7 @@ Archive for my public content creation
  - [copper_vein.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/copper_vein.png)
  - [deprecated.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/deprecated.png)
  - <details>
-   <summary><strong> $${\color{lightblue} frames }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} frames }$$ </strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/frames/0.png)
 
@@ -358,21 +358,21 @@ Archive for my public content creation
  - [ash.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/ash.png)
  - [automation.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/automation.png)
  - <details>
-   <summary><strong> $${\color{lightblue} comments }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} comments }$$ </strong></summary>
 
     - [comment.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/comments/comment.png)
 
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} deprecated }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} deprecated }$$ </strong></summary>
 
     - [cooler.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/deprecated/cooler.png)
 
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} ds-rpc }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} ds-rpc }$$ </strong></summary>
 
     - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/ds-rpc/logo.gif)
 
@@ -398,7 +398,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} JustDynaThings }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} logo }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} logo }$$ </strong></summary>
 
     - [16x](https://github.com/DevDyna/ContentArchive/tree/main/JustDynaThings/logo/16x)
 
@@ -407,7 +407,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [automation.png](https://github.com/DevDyna/ContentArchive/tree/main/JustDynaThings/screen/automation.png)
 
@@ -452,7 +452,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} Lit  On Fire }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} 16x }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} 16x }$$ </strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/16x/0.png)
 
@@ -474,7 +474,7 @@ Archive for my public content creation
 
  - [16x.gif](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/16x.gif)
  - <details>
-   <summary><strong> $${\color{lightblue} 400x }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} 400x }$$ </strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/400x/0.png)
 
@@ -553,7 +553,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} Numismatic  Bounties }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} logo }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} logo }$$ </strong></summary>
 
     - [32x](https://github.com/DevDyna/ContentArchive/tree/main/Numismatic%20Bounties/logo/32x)
 
@@ -564,7 +564,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [base.png](https://github.com/DevDyna/ContentArchive/tree/main/Numismatic%20Bounties/screen/base.png)
 
@@ -578,7 +578,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} Pattern  Utilities }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} backup-logo }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} backup-logo }$$ </strong></summary>
 
     - [crafting.png](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities/backup-logo/crafting.png)
 
@@ -602,7 +602,7 @@ Archive for my public content creation
 
  - [approved.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/approved.png)
  - <details>
-   <summary><strong> $${\color{lightblue} frames }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} frames }$$ </strong></summary>
 
     - [default.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/frames/default.png)
 
@@ -613,7 +613,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} gif }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} gif }$$ </strong></summary>
 
     - [without_text.gif](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/gif/without_text.gif)
 
@@ -625,7 +625,7 @@ Archive for my public content creation
  - [items.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/items.png)
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/logo.png)
  - <details>
-   <summary><strong> $${\color{lightblue} msg }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} msg }$$ </strong></summary>
 
     - [1.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/msg/1.png)
 
@@ -638,7 +638,7 @@ Archive for my public content creation
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez%20Mekanism%20Edition/logo.png)
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez%20Mekanism%20Edition/screen/0.png)
 
@@ -667,7 +667,7 @@ Archive for my public content creation
 
  - [darker.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez/darker.png)
  - <details>
-   <summary><strong> $${\color{lightblue} frame }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} frame }$$ </strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez/frame/0.png)
 
@@ -712,7 +712,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} Time  In A Bottle Plus Plus }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} logo }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} logo }$$ </strong></summary>
 
     - [400x.png](https://github.com/DevDyna/ContentArchive/tree/main/Time%20In%20A%20Bottle%20Plus%20Plus/logo/400x.png)
 
@@ -721,7 +721,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/Time%20In%20A%20Bottle%20Plus%20Plus/screen/gif.gif)
 
@@ -743,7 +743,7 @@ Archive for my public content creation
 <summary><strong> $${\color{orange} Vanilla  Expansion }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${\color{lightblue} better  nature }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} better  nature }$$ </strong></summary>
 
     - [git](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/better%20nature/git)
 
@@ -762,7 +762,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} font  trim }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} font  trim }$$ </strong></summary>
 
     - [Goat Utils](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/font%20trim/Goat%20Utils)
 
@@ -797,7 +797,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} player  utilities }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} player  utilities }$$ </strong></summary>
 
     - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/player%20utilities/logo.gif)
 
@@ -808,7 +808,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} radiant  redstone }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} radiant  redstone }$$ </strong></summary>
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/radiant%20redstone/logo.png)
 
@@ -819,14 +819,14 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} scaffolding-delta }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} scaffolding-delta }$$ </strong></summary>
 
     - [old](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/scaffolding-delta/old)
 
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} VE }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} VE }$$ </strong></summary>
 
     - [global.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/VE/global.png)
 
@@ -851,12 +851,12 @@ Archive for my public content creation
  - [main_image.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/main_image.png)
  - [oldlogo.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/oldlogo.png)
  - <details>
-   <summary><strong> $${\color{lightblue} original-screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} original-screen }$$ </strong></summary>
 
    </details>
 
  - <details>
-   <summary><strong> $${\color{lightblue} screen }$$ </strong></summary>
+   <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [arid-cave.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/screen/arid-cave.png)
 

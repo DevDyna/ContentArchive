@@ -46,7 +46,7 @@ async function main() {
     io.rawAppend(readme, "<details>\n");
     io.rawAppend(
       readme,
-      "<summary><strong>" + projects + "</strong></summary>\n\n"
+      "<summary><strong> $${\\color{orange} " + projects.replace(" "," \ ") + ' }$$ </strong></summary>\n\n'
     );
 
     let subdir = io.getAllFromDir("../ContentArchive/" + projects + "/");
@@ -71,7 +71,7 @@ async function main() {
             io.rawAppend(readme, " - <details>\n");
             io.rawAppend(
                 readme,
-                "   <summary><strong>" + d + "</strong></summary>\n\n"
+                "   <summary><strong> $${\\color{aqua} " + d.replace(" "," \ ") + ' }$$ </strong></summary>\n\n'
               );
             underdir.forEach((e) => {
 
@@ -104,9 +104,7 @@ async function main() {
 
   /*
 
-<details>
-   <summary><strong>Contributors (Traslations)</strong></summary>
-</details>
+$${\color{red}AE2 \ BackportFix}$$
 
 */
 }
