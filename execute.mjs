@@ -68,10 +68,10 @@ async function main() {
             "../ContentArchive/" + projects + "/" + d + "/"
           );
           if (underdir != []) {
-            io.rawAppend(readme, "      <details>\n");
+            io.rawAppend(readme, "   <details>\n");
             io.rawAppend(
                 readme,
-                "       <summary><strong>" + d + "</strong></summary>\n\n"
+                "   <summary><strong>" + d + "</strong></summary>\n\n"
               );
             underdir.forEach((e) => {
 
@@ -79,7 +79,7 @@ async function main() {
 
               io.rawAppend(
                 readme,
-                "       - [" +
+                "    - [" +
                   e +
                   "](https://github.com/DevDyna/ContentArchive/tree/main/" +
                   projects.replace(/ /g, "%20") +
@@ -91,7 +91,7 @@ async function main() {
               );
             });
 
-            io.rawAppend(readme, "      </details>\n\n");
+            io.rawAppend(readme, "    </details>\n\n");
           }
         }
       });
