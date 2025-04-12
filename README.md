@@ -3,12 +3,12 @@ Archive for my public content creation
 ### Projects related :
 
 <details>
-<summary><strong><span style="color:#008fff">AE2 BackportFix</span></strong></summary>
+<summary><strong>AE2 BackportFix</strong></summary>
 
  - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix/gif.gif)
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix/logo.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [bug.png](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix/screen/bug.png)
 
@@ -19,21 +19,21 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Alpha Gear</span></strong></summary>
+<summary><strong>Alpha Gear</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Alpha%20Gear/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Alpha%20Gear/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Ancient Ruins</span></strong></summary>
+<summary><strong>Ancient Ruins</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Ancient%20Ruins/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Ancient%20Ruins/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Assentia</span></strong></summary>
+<summary><strong>Assentia</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Assentia/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Assentia/screen.png)
@@ -43,18 +43,18 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Beacons Connection CTM</span></strong></summary>
+<summary><strong>Beacons Connection CTM</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Beacons%20Connection%20CTM/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Beacons%20Connection%20CTM/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Better Powah Cables</span></strong></summary>
+<summary><strong>Better Powah Cables</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Powah%20Cables/logo.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Powah%20Cables/screen/0.png)
 
@@ -67,11 +67,11 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Better Replication Pipes</span></strong></summary>
+<summary><strong>Better Replication Pipes</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Replication%20Pipes/logo.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Replication%20Pipes/screen/0.png)
 
@@ -84,7 +84,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Binoculars</span></strong></summary>
+<summary><strong>Binoculars</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Binoculars/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Binoculars/screen.png)
@@ -96,7 +96,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">BTW Ores</span></strong></summary>
+<summary><strong>BTW Ores</strong></summary>
 
  - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/BTW%20Ores/0.png)
  - [1.png](https://github.com/DevDyna/ContentArchive/tree/main/BTW%20Ores/1.png)
@@ -110,10 +110,10 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Chipped Express</span></strong></summary>
+<summary><strong>Chipped Express</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">logo</span></strong></summary>
+   <summary><strong>logo</strong></summary>
 
     - [frame](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express/logo/frame)
 
@@ -128,7 +128,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Classic Progression Skyblock</span></strong></summary>
+<summary><strong>Classic Progression Skyblock</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Classic%20Progression%20Skyblock/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Classic%20Progression%20Skyblock/screen.png)
@@ -137,7 +137,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Copper Lines</span></strong></summary>
+<summary><strong>Copper Lines</strong></summary>
 
  - [icon.gif](https://github.com/DevDyna/ContentArchive/tree/main/Copper%20Lines/icon.gif)
  - [pack.png](https://github.com/DevDyna/ContentArchive/tree/main/Copper%20Lines/pack.png)
@@ -145,27 +145,27 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Dev.Island</span></strong></summary>
+<summary><strong>Dev.Island</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Dev.Island/logo.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Dynamo Flux</span></strong></summary>
+<summary><strong>Dynamo Flux</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Dynamo%20Flux/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Dynamo%20Flux/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Easy Bee</span></strong></summary>
+<summary><strong>Easy Bee</strong></summary>
 
  - [400x logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/400x%20logo.png)
  - [floreal.gif](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/floreal.gif)
  - [new.gif](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/new.gif)
  - [old.gif](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/old.gif)
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [beewaxtip.png](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/screen/beewaxtip.png)
 
@@ -178,7 +178,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">ElementZ</span></strong></summary>
+<summary><strong>ElementZ</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/ElementZ/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/ElementZ/screen.png)
@@ -187,10 +187,10 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">ExtraBounties</span></strong></summary>
+<summary><strong>ExtraBounties</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">128x</span></strong></summary>
+   <summary><strong>128x</strong></summary>
 
     - [blue.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/128x/blue.png)
 
@@ -209,7 +209,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">16x</span></strong></summary>
+   <summary><strong>16x</strong></summary>
 
     - [blue.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/16x/blue.png)
 
@@ -228,7 +228,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">400x</span></strong></summary>
+   <summary><strong>400x</strong></summary>
 
     - [blue.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/400x/blue.png)
 
@@ -253,11 +253,11 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">EZ ae2</span></strong></summary>
+<summary><strong>EZ ae2</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2/logo.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [inscriber.png](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2/screen/inscriber.png)
 
@@ -272,7 +272,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">FixChest</span></strong></summary>
+<summary><strong>FixChest</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/FixChest/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/FixChest/screen.png)
@@ -280,7 +280,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">FixSculk</span></strong></summary>
+<summary><strong>FixSculk</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/FixSculk/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/FixSculk/screen.png)
@@ -288,24 +288,24 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">FixWall</span></strong></summary>
+<summary><strong>FixWall</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/FixWall/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/FixWall/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Flatmode</span></strong></summary>
+<summary><strong>Flatmode</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">modpack</span></strong></summary>
+   <summary><strong>modpack</strong></summary>
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode/modpack/logo.png)
 
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">world</span></strong></summary>
+   <summary><strong>world</strong></summary>
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode/world/logo.png)
 
@@ -316,12 +316,12 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">GT Nihilo</span></strong></summary>
+<summary><strong>GT Nihilo</strong></summary>
 
  - [copper_vein.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/copper_vein.png)
  - [deprecated.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/deprecated.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">frames</span></strong></summary>
+   <summary><strong>frames</strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/frames/0.png)
 
@@ -343,7 +343,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Gunpowder</span></strong></summary>
+<summary><strong>Gunpowder</strong></summary>
 
  - [large-logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Gunpowder/large-logo.png)
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Gunpowder/logo.png)
@@ -353,26 +353,26 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Ironberry</span></strong></summary>
+<summary><strong>Ironberry</strong></summary>
 
  - [ash.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/ash.png)
  - [automation.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/automation.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">comments</span></strong></summary>
+   <summary><strong>comments</strong></summary>
 
     - [comment.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/comments/comment.png)
 
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">deprecated</span></strong></summary>
+   <summary><strong>deprecated</strong></summary>
 
     - [cooler.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/deprecated/cooler.png)
 
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">ds-rpc</span></strong></summary>
+   <summary><strong>ds-rpc</strong></summary>
 
     - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/ds-rpc/logo.gif)
 
@@ -395,10 +395,10 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">JustDynaThings</span></strong></summary>
+<summary><strong>JustDynaThings</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">logo</span></strong></summary>
+   <summary><strong>logo</strong></summary>
 
     - [16x](https://github.com/DevDyna/ContentArchive/tree/main/JustDynaThings/logo/16x)
 
@@ -407,7 +407,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [automation.png](https://github.com/DevDyna/ContentArchive/tree/main/JustDynaThings/screen/automation.png)
 
@@ -434,13 +434,13 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Kubejs-CopyPaste</span></strong></summary>
+<summary><strong>Kubejs-CopyPaste</strong></summary>
 
  - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/Kubejs-CopyPaste/gif.gif)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Linear Pipes</span></strong></summary>
+<summary><strong>Linear Pipes</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Linear%20Pipes/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Linear%20Pipes/screen.png)
@@ -449,10 +449,10 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Lit On Fire</span></strong></summary>
+<summary><strong>Lit On Fire</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">16x</span></strong></summary>
+   <summary><strong>16x</strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/16x/0.png)
 
@@ -474,7 +474,7 @@ Archive for my public content creation
 
  - [16x.gif](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/16x.gif)
  - <details>
-   <summary><strong><span style="color:#00ca2b">400x</span></strong></summary>
+   <summary><strong>400x</strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/400x/0.png)
 
@@ -499,7 +499,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Logistics Pipez</span></strong></summary>
+<summary><strong>Logistics Pipez</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Logistics%20Pipez/logo.png)
  - [off.png](https://github.com/DevDyna/ContentArchive/tree/main/Logistics%20Pipez/off.png)
@@ -508,7 +508,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Mechanical Logistics</span></strong></summary>
+<summary><strong>Mechanical Logistics</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Mechanical%20Logistics/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Mechanical%20Logistics/screen.png)
@@ -521,7 +521,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Meka Pipes</span></strong></summary>
+<summary><strong>Meka Pipes</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Meka%20Pipes/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Meka%20Pipes/screen.png)
@@ -529,31 +529,31 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">METV</span></strong></summary>
+<summary><strong>METV</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/METV/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/METV/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Minechem Redux</span></strong></summary>
+<summary><strong>Minechem Redux</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Minechem%20Redux/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Minechem%20Redux/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Mini Utilities CTM</span></strong></summary>
+<summary><strong>Mini Utilities CTM</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Mini%20Utilities%20CTM/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Mini%20Utilities%20CTM/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Numismatic Bounties</span></strong></summary>
+<summary><strong>Numismatic Bounties</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">logo</span></strong></summary>
+   <summary><strong>logo</strong></summary>
 
     - [32x](https://github.com/DevDyna/ContentArchive/tree/main/Numismatic%20Bounties/logo/32x)
 
@@ -564,7 +564,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [base.png](https://github.com/DevDyna/ContentArchive/tree/main/Numismatic%20Bounties/screen/base.png)
 
@@ -575,10 +575,10 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Pattern Utilities</span></strong></summary>
+<summary><strong>Pattern Utilities</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">backup-logo</span></strong></summary>
+   <summary><strong>backup-logo</strong></summary>
 
     - [crafting.png](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities/backup-logo/crafting.png)
 
@@ -598,11 +598,11 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Pretty X Smart Pipez</span></strong></summary>
+<summary><strong>Pretty X Smart Pipez</strong></summary>
 
  - [approved.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/approved.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">frames</span></strong></summary>
+   <summary><strong>frames</strong></summary>
 
     - [default.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/frames/default.png)
 
@@ -613,7 +613,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">gif</span></strong></summary>
+   <summary><strong>gif</strong></summary>
 
     - [without_text.gif](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/gif/without_text.gif)
 
@@ -625,7 +625,7 @@ Archive for my public content creation
  - [items.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/items.png)
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/logo.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">msg</span></strong></summary>
+   <summary><strong>msg</strong></summary>
 
     - [1.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/msg/1.png)
 
@@ -634,11 +634,11 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Pretty X Smart Pipez Mekanism Edition</span></strong></summary>
+<summary><strong>Pretty X Smart Pipez Mekanism Edition</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez%20Mekanism%20Edition/logo.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez%20Mekanism%20Edition/screen/0.png)
 
@@ -655,7 +655,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Redstuff</span></strong></summary>
+<summary><strong>Redstuff</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Redstuff/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Redstuff/screen.png)
@@ -663,11 +663,11 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Smart Pipez</span></strong></summary>
+<summary><strong>Smart Pipez</strong></summary>
 
  - [darker.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez/darker.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">frame</span></strong></summary>
+   <summary><strong>frame</strong></summary>
 
     - [0.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez/frame/0.png)
 
@@ -680,21 +680,21 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Smart Trapdoor</span></strong></summary>
+<summary><strong>Smart Trapdoor</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Trapdoor/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Trapdoor/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Solidary Types</span></strong></summary>
+<summary><strong>Solidary Types</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Solidary%20Types/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Solidary%20Types/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Sticky Vision</span></strong></summary>
+<summary><strong>Sticky Vision</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Sticky%20Vision/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Sticky%20Vision/screen.png)
@@ -702,17 +702,17 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">The Bottom Of The Glass</span></strong></summary>
+<summary><strong>The Bottom Of The Glass</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/The%20Bottom%20Of%20The%20Glass/logo.png)
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/The%20Bottom%20Of%20The%20Glass/screen.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Time In A Bottle Plus Plus</span></strong></summary>
+<summary><strong>Time In A Bottle Plus Plus</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">logo</span></strong></summary>
+   <summary><strong>logo</strong></summary>
 
     - [400x.png](https://github.com/DevDyna/ContentArchive/tree/main/Time%20In%20A%20Bottle%20Plus%20Plus/logo/400x.png)
 
@@ -721,7 +721,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/Time%20In%20A%20Bottle%20Plus%20Plus/screen/gif.gif)
 
@@ -734,16 +734,16 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Utility Tags</span></strong></summary>
+<summary><strong>Utility Tags</strong></summary>
 
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Utility%20Tags/logo.png)
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Vanilla Expansion</span></strong></summary>
+<summary><strong>Vanilla Expansion</strong></summary>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">better nature</span></strong></summary>
+   <summary><strong>better nature</strong></summary>
 
     - [git](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/better%20nature/git)
 
@@ -762,7 +762,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">font trim</span></strong></summary>
+   <summary><strong>font trim</strong></summary>
 
     - [Goat Utils](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/font%20trim/Goat%20Utils)
 
@@ -797,7 +797,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">player utilities</span></strong></summary>
+   <summary><strong>player utilities</strong></summary>
 
     - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/player%20utilities/logo.gif)
 
@@ -808,7 +808,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">radiant redstone</span></strong></summary>
+   <summary><strong>radiant redstone</strong></summary>
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/radiant%20redstone/logo.png)
 
@@ -819,14 +819,14 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">scaffolding-delta</span></strong></summary>
+   <summary><strong>scaffolding-delta</strong></summary>
 
     - [old](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/scaffolding-delta/old)
 
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">VE</span></strong></summary>
+   <summary><strong>VE</strong></summary>
 
     - [global.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/VE/global.png)
 
@@ -843,7 +843,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Wild Caves</span></strong></summary>
+<summary><strong>Wild Caves</strong></summary>
 
  - [desc.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/desc.png)
  - [logo 400x.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/logo%20400x.png)
@@ -851,12 +851,12 @@ Archive for my public content creation
  - [main_image.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/main_image.png)
  - [oldlogo.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/oldlogo.png)
  - <details>
-   <summary><strong><span style="color:#00ca2b">original-screen</span></strong></summary>
+   <summary><strong>original-screen</strong></summary>
 
    </details>
 
  - <details>
-   <summary><strong><span style="color:#00ca2b">screen</span></strong></summary>
+   <summary><strong>screen</strong></summary>
 
     - [arid-cave.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/screen/arid-cave.png)
 
@@ -884,7 +884,7 @@ Archive for my public content creation
 </details>
 
 <details>
-<summary><strong><span style="color:#008fff">Xray Unlimited</span></strong></summary>
+<summary><strong>Xray Unlimited</strong></summary>
 
  - [desc.png](https://github.com/DevDyna/ContentArchive/tree/main/Xray%20Unlimited/desc.png)
  - [fabric.png](https://github.com/DevDyna/ContentArchive/tree/main/Xray%20Unlimited/fabric.png)
