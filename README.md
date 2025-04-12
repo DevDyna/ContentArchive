@@ -743,7 +743,7 @@ Archive for my public content creation
 <summary><strong> $${color{orange} Vanilla  Expansion }$$ </strong></summary>
 
  - <details>
-   <summary><strong> $${color{lightblue} better \nature }$$ </strong></summary>
+   <summary><strong> $${color{lightblue} better  nature }$$ </strong></summary>
 
     - [git](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/better%20nature/git)
 
@@ -762,7 +762,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${color{lightblue} font \trim }$$ </strong></summary>
+   <summary><strong> $${color{lightblue} font  trim }$$ </strong></summary>
 
     - [Goat Utils](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/font%20trim/Goat%20Utils)
 
@@ -797,7 +797,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${color{lightblue} player \utilities }$$ </strong></summary>
+   <summary><strong> $${color{lightblue} player  utilities }$$ </strong></summary>
 
     - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/player%20utilities/logo.gif)
 
@@ -808,7 +808,7 @@ Archive for my public content creation
    </details>
 
  - <details>
-   <summary><strong> $${color{lightblue} radiant \redstone }$$ </strong></summary>
+   <summary><strong> $${color{lightblue} radiant  redstone }$$ </strong></summary>
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/radiant%20redstone/logo.png)
 
