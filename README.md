@@ -14,7 +14,7 @@ Archive for my public content creation
 
     - [solution.png](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix/screen/solution.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -62,7 +62,7 @@ Archive for my public content creation
 
     - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Powah%20Cables/screen/gif.gif)
 
-    </details>
+   </details>
 
 </details>
 
@@ -79,7 +79,7 @@ Archive for my public content creation
 
     - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Replication%20Pipes/screen/gif.gif)
 
-    </details>
+   </details>
 
 </details>
 
@@ -121,7 +121,7 @@ Archive for my public content creation
 
     - [og.png](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express/logo/og.png)
 
-    </details>
+   </details>
 
  - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express/screen.png)
  - [screen1.png](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express/screen1.png)
@@ -173,7 +173,7 @@ Archive for my public content creation
 
     - [floreal.png](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee/screen/floreal.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -206,7 +206,7 @@ Archive for my public content creation
 
     - [red.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/128x/red.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>16x</strong></summary>
@@ -225,7 +225,7 @@ Archive for my public content creation
 
     - [red.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/16x/red.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>400x</strong></summary>
@@ -244,7 +244,7 @@ Archive for my public content creation
 
     - [red.png](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/400x/red.png)
 
-    </details>
+   </details>
 
  - [logo-modrinth.gif](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/logo-modrinth.gif)
  - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties/logo.gif)
@@ -267,7 +267,7 @@ Archive for my public content creation
 
     - [shapeless.png](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2/screen/shapeless.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -302,7 +302,7 @@ Archive for my public content creation
 
     - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode/modpack/logo.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>world</strong></summary>
@@ -311,7 +311,7 @@ Archive for my public content creation
 
     - [screen.png](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode/world/screen.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -335,7 +335,7 @@ Archive for my public content creation
 
     - [5.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/frames/5.png)
 
-    </details>
+   </details>
 
  - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/logo.gif)
  - [rock.png](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo/rock.png)
@@ -362,14 +362,14 @@ Archive for my public content creation
 
     - [comment.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/comments/comment.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>deprecated</strong></summary>
 
     - [cooler.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/deprecated/cooler.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>ds-rpc</strong></summary>
@@ -378,7 +378,7 @@ Archive for my public content creation
 
     - [oldlogo.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/ds-rpc/oldlogo.png)
 
-    </details>
+   </details>
 
  - [early.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/early.png)
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry/logo.png)
@@ -404,7 +404,7 @@ Archive for my public content creation
 
     - [400x](https://github.com/DevDyna/ContentArchive/tree/main/JustDynaThings/logo/400x)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>screen</strong></summary>
@@ -429,7 +429,7 @@ Archive for my public content creation
 
     - [reforger.png](https://github.com/DevDyna/ContentArchive/tree/main/JustDynaThings/screen/reforger.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -470,7 +470,7 @@ Archive for my public content creation
 
     - [7.png](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/16x/7.png)
 
-    </details>
+   </details>
 
  - [16x.gif](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/16x.gif)
    <details>
@@ -492,7 +492,7 @@ Archive for my public content creation
 
     - [7.png](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/400x/7.png)
 
-    </details>
+   </details>
 
  - [400x.gif](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/400x.gif)
  - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/Lit%20On%20Fire/gif.gif)
@@ -561,7 +561,7 @@ Archive for my public content creation
 
     - [pack.png](https://github.com/DevDyna/ContentArchive/tree/main/Numismatic%20Bounties/logo/pack.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>screen</strong></summary>
@@ -570,7 +570,7 @@ Archive for my public content creation
 
     - [extra.png](https://github.com/DevDyna/ContentArchive/tree/main/Numismatic%20Bounties/screen/extra.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -588,7 +588,7 @@ Archive for my public content creation
 
     - [stonecutter.png](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities/backup-logo/stonecutter.png)
 
-    </details>
+   </details>
 
  - [logo.gif](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities/logo.gif)
  - [screen1.png](https://github.com/DevDyna/ContentArchive/tree/main/Pattern%20Utilities/screen1.png)
@@ -610,7 +610,7 @@ Archive for my public content creation
 
     - [prettyxsmart.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/frames/prettyxsmart.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>gif</strong></summary>
@@ -619,7 +619,7 @@ Archive for my public content creation
 
     - [with_text.gif](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/gif/with_text.gif)
 
-    </details>
+   </details>
 
  - [image.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/image.png)
  - [items.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/items.png)
@@ -629,7 +629,7 @@ Archive for my public content creation
 
     - [1.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez/msg/1.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -650,7 +650,7 @@ Archive for my public content creation
 
     - [item.png](https://github.com/DevDyna/ContentArchive/tree/main/Pretty%20X%20Smart%20Pipez%20Mekanism%20Edition/screen/item.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -673,7 +673,7 @@ Archive for my public content creation
 
     - [1.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez/frame/1.png)
 
-    </details>
+   </details>
 
  - [gif.gif](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez/gif.gif)
  - [logo.png](https://github.com/DevDyna/ContentArchive/tree/main/Smart%20Pipez/logo.png)
@@ -718,7 +718,7 @@ Archive for my public content creation
 
     - [60x.png](https://github.com/DevDyna/ContentArchive/tree/main/Time%20In%20A%20Bottle%20Plus%20Plus/logo/60x.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>screen</strong></summary>
@@ -729,7 +729,7 @@ Archive for my public content creation
 
     - [post.gif](https://github.com/DevDyna/ContentArchive/tree/main/Time%20In%20A%20Bottle%20Plus%20Plus/screen/post.gif)
 
-    </details>
+   </details>
 
 </details>
 
@@ -759,7 +759,7 @@ Archive for my public content creation
 
     - [screen4.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/better%20nature/screen4.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>font trim</strong></summary>
@@ -794,7 +794,7 @@ Archive for my public content creation
 
     - [Warden Gadgets](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/font%20trim/Warden%20Gadgets)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>player utilities</strong></summary>
@@ -805,7 +805,7 @@ Archive for my public content creation
 
     - [screen1.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/player%20utilities/screen1.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>radiant redstone</strong></summary>
@@ -816,14 +816,14 @@ Archive for my public content creation
 
     - [screen2.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/radiant%20redstone/screen2.png)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>scaffolding-delta</strong></summary>
 
     - [old](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/scaffolding-delta/old)
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>VE</strong></summary>
@@ -838,7 +838,7 @@ Archive for my public content creation
 
     - [screen2.png](https://github.com/DevDyna/ContentArchive/tree/main/Vanilla%20Expansion/VE/screen2.png)
 
-    </details>
+   </details>
 
 </details>
 
@@ -853,7 +853,7 @@ Archive for my public content creation
    <details>
    <summary><strong>original-screen</strong></summary>
 
-    </details>
+   </details>
 
    <details>
    <summary><strong>screen</strong></summary>
@@ -878,7 +878,7 @@ Archive for my public content creation
 
     - [wet-cave.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/screen/wet-cave.png)
 
-    </details>
+   </details>
 
  - [title.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/title.png)
 </details>
