@@ -91,7 +91,7 @@ async function main() {
               );
             });
 
-            io.rawAppend(readme, "    </details>\n\n");
+            io.rawAppend(readme, "   </details>\n\n");
           }
         }
       });
