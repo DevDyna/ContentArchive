@@ -851,11 +851,6 @@ Archive for my public content creation
  - [main_image.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/main_image.png)
  - [oldlogo.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/oldlogo.png)
  - <details>
-   <summary><strong> $${\color{aqua} original-screen }$$ </strong></summary>
-
-   </details>
-
- - <details>
    <summary><strong> $${\color{aqua} screen }$$ </strong></summary>
 
     - [arid-cave.png](https://github.com/DevDyna/ContentArchive/tree/main/Wild%20Caves/screen/arid-cave.png)
