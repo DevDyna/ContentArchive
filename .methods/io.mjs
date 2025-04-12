@@ -63,3 +63,11 @@ export function rawAppend(url, content){
         }
         return bool
 }
+//-----------------------------------------------------------------------------------//
+export function isFile(url){
+    try {
+      return fs.statSync(url).isFile();
+    } catch (error) {
+      return false;
+    }
+  }
