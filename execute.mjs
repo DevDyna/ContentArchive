@@ -12,16 +12,6 @@ async function main() {
   await delay(100);
   let list = io.getAllFromDir("../ContentArchive/");
 
-  let ContentFilter = (item) =>
-    !(
-      item.startsWith(".") ||
-      item.endsWith(".md") ||
-      item.endsWith(".mjs") ||
-      item.endsWith(".bat") ||
-      item.endsWith(".ini") ||
-      item.endsWith(".png") ||
-      item.endsWith(".gif")
-    );
   let filtered = list.filter(
     (item) =>
       !(
@@ -46,7 +36,7 @@ async function main() {
     io.rawAppend(readme, "<details>\n");
     io.rawAppend(
       readme,
-      "<summary><strong>" + projects + "</strong></summary>\n\n"
+      '<summary><strong><span style="color:#008fff">' + projects + '</span></strong></summary>\n\n'
     );
 
     let subdir = io.getAllFromDir("../ContentArchive/" + projects + "/");
@@ -71,7 +61,7 @@ async function main() {
             io.rawAppend(readme, " - <details>\n");
             io.rawAppend(
                 readme,
-                "   <summary><strong>" + d + "</strong></summary>\n\n"
+                '   <summary><strong><span style="color:#00ca2b">' + d + '</span></strong></summary>\n\n'
               );
             underdir.forEach((e) => {
 
@@ -104,9 +94,7 @@ async function main() {
 
   /*
 
-<details>
-   <summary><strong>Contributors (Traslations)</strong></summary>
-</details>
+<span style="color:blue">AAA</span>
 
 */
 }
