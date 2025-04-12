@@ -68,7 +68,7 @@ async function main() {
             "../ContentArchive/" + projects + "/" + d + "/"
           );
           if (underdir != []) {
-            io.rawAppend(readme, "   <details>\n");
+            io.rawAppend(readme, " - <details>\n");
             io.rawAppend(
                 readme,
                 "   <summary><strong>" + d + "</strong></summary>\n\n"
