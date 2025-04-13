@@ -11,17 +11,6 @@ async function main() {
   console.log("Reading directories");
   await delay(100);
   let list = io.getAllFromDir("../ContentArchive/");
-
-  let ContentFilter = (item) =>
-    !(
-      item.startsWith(".") ||
-      item.endsWith(".md") ||
-      item.endsWith(".mjs") ||
-      item.endsWith(".bat") ||
-      item.endsWith(".ini") ||
-      item.endsWith(".png") ||
-      item.endsWith(".gif")
-    );
   let filtered = list.filter(
     (item) =>
       !(
@@ -43,68 +32,15 @@ async function main() {
   io.rawAppend(readme, "### Projects related :\n\n");
   await delay(100);
   filtered.forEach((projects) => {
-    io.rawAppend(readme, "<details>\n");
+    //let modifiedString = originalString.replace(/ /g, "%20");
     io.rawAppend(
       readme,
-      "<summary><strong> $${\\color{orange} " + projects.replace(" "," \ ") + ' }$$ </strong></summary>\n\n'
+      "[`" +
+        projects +
+        "`](https://github.com/DevDyna/ContentArchive/tree/main/" +
+        projects.replace(/ /g, "%20") +
+        ")\n"
     );
-
-    let subdir = io.getAllFromDir("../ContentArchive/" + projects + "/");
-    if (subdir != []) {
-      subdir.forEach((d) => {
-        if (io.isFile("../ContentArchive/" + projects + "/"+d)) {
-          io.rawAppend(
-            readme,
-            " - [" +
-              d +
-              "](https://github.com/DevDyna/ContentArchive/tree/main/" +
-              projects.replace(/ /g, "%20") +
-              "/" +
-              d.replace(/ /g, "%20") +
-              ")\n"
-          );
-        } else {
-          let underdir = io.getAllFromDir(
-            "../ContentArchive/" + projects + "/" + d + "/"
-          );
-          if (underdir != []) {
-            io.rawAppend(readme, " - <details>\n");
-            io.rawAppend(
-                readme,
-                "   <summary><strong> $${\\color{aqua} " + d.replace(" "," \ ") + ' }$$ </strong></summary>\n\n'
-              );
-            underdir.forEach((e) => {
-
-                
-
-              io.rawAppend(
-                readme,
-                "    - [" +
-                  e +
-                  "](https://github.com/DevDyna/ContentArchive/tree/main/" +
-                  projects.replace(/ /g, "%20") +
-                  "/" +
-                  d.replace(/ /g, "%20") +
-                  "/" +
-                  e.replace(/ /g, "%20") +
-                  ")\n\n"
-              );
-            });
-
-            io.rawAppend(readme, "   </details>\n\n");
-          }
-        }
-      });
-    } else {
-      io.rawAppend(readme, " \n");
-    }
-
-    io.rawAppend(readme, "</details>\n\n");
+    console.log("+ " + projects);
   });
-
-  /*
-
-$${\color{red}AE2 \ BackportFix}$$
-
-*/
 }
