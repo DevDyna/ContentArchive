@@ -10,6 +10,7 @@ Archive for my public content creation
 [`Better Powah Cables`](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Powah%20Cables)
 [`Better Replication Pipes`](https://github.com/DevDyna/ContentArchive/tree/main/Better%20Replication%20Pipes)
 [`Binoculars`](https://github.com/DevDyna/ContentArchive/tree/main/Binoculars)
+[`Box of Goodies`](https://github.com/DevDyna/ContentArchive/tree/main/Box%20of%20Goodies)
 [`BTW Ores`](https://github.com/DevDyna/ContentArchive/tree/main/BTW%20Ores)
 [`Chipped Express`](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express)
 [`Classic Progression Skyblock`](https://github.com/DevDyna/ContentArchive/tree/main/Classic%20Progression%20Skyblock)
