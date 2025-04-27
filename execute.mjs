@@ -28,7 +28,7 @@ async function main() {
   }
   console.log(filtered.length + " Project" + plus + " founded");
   io.rawWrite(readme, "# ContentArchive\n");
-  io.rawAppend(readme, "Archive for my public content creation\n");
+  io.rawAppend(readme, "Archive for my public content creation or sharing stuff with a history\n");
   io.rawAppend(readme, "### Projects related :\n\n");
   await delay(100);
   filtered.forEach((projects) => {
