@@ -15,6 +15,7 @@ Archive for my public content creation
 [`Chipped Express`](https://github.com/DevDyna/ContentArchive/tree/main/Chipped%20Express)
 [`Classic Progression Skyblock`](https://github.com/DevDyna/ContentArchive/tree/main/Classic%20Progression%20Skyblock)
 [`Copper Lines`](https://github.com/DevDyna/ContentArchive/tree/main/Copper%20Lines)
+[`Create Numismatic Bounties`](https://github.com/DevDyna/ContentArchive/tree/main/Create%20Numismatic%20Bounties)
 [`Dev.Island`](https://github.com/DevDyna/ContentArchive/tree/main/Dev.Island)
 [`Dynamo Flux`](https://github.com/DevDyna/ContentArchive/tree/main/Dynamo%20Flux)
 [`Easy Bee`](https://github.com/DevDyna/ContentArchive/tree/main/Easy%20Bee)
