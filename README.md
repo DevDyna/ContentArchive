@@ -1,5 +1,5 @@
 # ContentArchive
-Archive for my public content creation
+Archive for my public content creation or sharing stuff with a history
 ### Projects related :
 
 [`AE2 BackportFix`](https://github.com/DevDyna/ContentArchive/tree/main/AE2%20BackportFix)
