@@ -22,6 +22,7 @@ Archive for my public content creation or sharing stuff with a history
 [`ElementZ`](https://github.com/DevDyna/ContentArchive/tree/main/ElementZ)
 [`ExtraBounties`](https://github.com/DevDyna/ContentArchive/tree/main/ExtraBounties)
 [`EZ ae2`](https://github.com/DevDyna/ContentArchive/tree/main/EZ%20ae2)
+[`Factory Express`](https://github.com/DevDyna/ContentArchive/tree/main/Factory%20Express)
 [`FixChest`](https://github.com/DevDyna/ContentArchive/tree/main/FixChest)
 [`FixSculk`](https://github.com/DevDyna/ContentArchive/tree/main/FixSculk)
 [`FixWall`](https://github.com/DevDyna/ContentArchive/tree/main/FixWall)
