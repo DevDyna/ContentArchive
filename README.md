@@ -28,6 +28,7 @@ Archive for my public content creation or sharing stuff with a history
 [`FixSculk`](https://github.com/DevDyna/ContentArchive/tree/main/FixSculk)
 [`FixWall`](https://github.com/DevDyna/ContentArchive/tree/main/FixWall)
 [`Flatmode`](https://github.com/DevDyna/ContentArchive/tree/main/Flatmode)
+[`GeodeJEI`](https://github.com/DevDyna/ContentArchive/tree/main/GeodeJEI)
 [`GT Nihilo`](https://github.com/DevDyna/ContentArchive/tree/main/GT%20Nihilo)
 [`Gunpowder`](https://github.com/DevDyna/ContentArchive/tree/main/Gunpowder)
 [`Ironberry`](https://github.com/DevDyna/ContentArchive/tree/main/Ironberry)
